@@ -1,0 +1,2 @@
+rootProject.name='JasonApp'
+include ':app'
